@@ -381,3 +381,15 @@ body {
 		margin-bottom: 10px;
 	}
 }
+.intro a:hover {
+	transition: .8s all;
+    -webkit-transition: .8s all;
+    -o-transition: .8s all;
+    -ms-transition: .8s all;
+    -moz-transition: .8s all;
+    transform: rotatey(360deg);
+    -webkit-transform: rotatey(360deg);
+    -moz-transform: rotatey(360deg);
+    -o-transform: rotatey(360deg);
+    -ms-transform: rotatey(360deg);
+}
